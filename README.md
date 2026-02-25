@@ -86,8 +86,8 @@ A CSV file named `panelist_assignment.csv` is saved in the same directory, with 
 
 | User Name | Assigned Panelist |
 |---|---|
-| Alice | Ramon Zapata |
-| Bob | Kyle O'Neil |
+| Alice | Name 1 |
+| Bob | Name 2 |
 
 ---
 
